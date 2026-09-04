@@ -1,6 +1,6 @@
 # NeetCode Solutions — @adityaparagsingh
 
-A collection of my **NeetCode / LeetCode problem solutions**, automatically pushed to this repository as I solve problems.
+A collection of my **NeetCode problem solutions**, automatically pushed to this repository as I solve problems.
 
 This repository is mainly used to **track my DSA progress**, maintain my solutions, and build consistency while preparing for coding interviews and competitive programming.
 
