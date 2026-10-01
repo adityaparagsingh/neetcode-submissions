@@ -1,3 +1,4 @@
+#brute force method - Time Limit Error (TLE)
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
         ans = []
